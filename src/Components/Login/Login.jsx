@@ -28,7 +28,7 @@ const Login = () => {
 </button></Link>  
 
           </form>
-          <span className='text-white bg-Red rounded-full p-1 px-2 text-xs absolute top-[385px] left-[380px]'>Beta</span>
+          <span className='text-white bg-Red rounded-full p-1 px-2 text-xs relative  bottom-[45px] left-[270px]'>Beta</span>
         </div>
         <div className='Footer'>
         <Footer left="left-[120px]"></Footer>
